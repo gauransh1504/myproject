@@ -31,7 +31,6 @@ function ProductCard({ name, price, onSale = false }) {
   );
 }
 
-// Example usage
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <div className="app-container">
